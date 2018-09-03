@@ -119,7 +119,7 @@ body {
     font-size: 14px;
     padding: 30px 10px;
     text-transform: uppercase;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255);
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
@@ -871,7 +871,7 @@ body {
   .fh5co-cover .display-tc .btn {
     padding: 15px 20px;
     background: #fff !important;
-    color: #fdb515;
+    color: #F14E95;
     border: none !important;
     font-size: 20px;
     text-transform: uppercase;
@@ -934,7 +934,7 @@ body {
     display: inline-block;
     width: 100px;
     height: 100px;
-    background: #fdb515;
+    background: #F14E95;
     margin: 0 4px;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -1173,7 +1173,7 @@ body {
     margin-bottom: 10px;
     line-height: 1.5;
     font-weight: bold;
-    color: #fdb515;
+    color: #F14E95;
     font-family: "Sacramento", Arial, serif;
   }
   @media screen and (max-width: 768px) {
@@ -1366,7 +1366,7 @@ body {
   #fh5co-started .btn {
     height: 54px;
     border: none !important;
-    background: #fdb515;
+    background: #F14E95;
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
@@ -1827,6 +1827,7 @@ body {
   /*Wishlist button*/
   
   .btns {
+      height: 54px;
       margin-right: 4px;
       margin-bottom: 4px;
       font-family: "Work Sans", Arial, sans-serif;
@@ -1841,6 +1842,6 @@ body {
       -o-transition: 0.5s;
       transition: 0.5s;
       padding: 8px 20px;
-      background-color: #fdb515; 
+      background-color: #F14E95; 
       border: none !important;
   }
