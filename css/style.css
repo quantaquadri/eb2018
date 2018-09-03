@@ -1346,6 +1346,10 @@ body {
     -o-transition: 0.5s;
     transition: 0.5s;
   }
+
+  #fh5co-started .form-select {
+    background: rgba(0,0,0);
+  }
   #fh5co-started .form-control::-webkit-input-placeholder {
     color: #fff;
   }
@@ -1845,3 +1849,8 @@ body {
       background-color: #F14E95; 
       border: none !important;
   }
+
+  #fh5co-started .form-inline .form-group .form-control .form select {
+    color: #2a2a2a;
+    background: #000 url(https://res.cloudinary.com/dxuap8kxy/image/upload/v1535286002/diamondsforevr/img/select-icon.png) no-repeat calc(100% - 15px) center;
+}
