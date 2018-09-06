@@ -870,8 +870,8 @@ body {
   #fh5co-counter .display-tc .btn,
   .fh5co-cover .display-tc .btn {
     padding: 15px 20px;
-    background: #fff !important;
-    color: #F14E95;
+    background: #F14E95 !important;
+    color: #fff;
     border: none !important;
     font-size: 20px;
     text-transform: uppercase;
@@ -879,7 +879,7 @@ body {
   #fh5co-header .display-tc .btn:hover,
   #fh5co-counter .display-tc .btn:hover,
   .fh5co-cover .display-tc .btn:hover {
-    background: #fff !important;
+    background: #F14E95 !important;
     -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
     -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
     box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
